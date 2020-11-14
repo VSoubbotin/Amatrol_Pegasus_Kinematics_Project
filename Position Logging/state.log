@@ -1,0 +1,12 @@
+[\\BRUHMOMENT]
+00000001	0.00000000	[20516] [1029/143515.494:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+00000002	0.00012670	[16556] [1029/143515.497:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+00000003	0.00777260	[11380] [1029/143515.518:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+00000004	2.13219643	[22968] LogonFailure 3
+00000005	4.81100702	[30144] [1029/143520.322:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+00000006	4.99318075	[20516] [1029/143520.503:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+00000007	5.01007700	[16556] [1029/143520.520:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+00000008	5.01859140	[11380] [1029/143520.529:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+00000009	5.81493139	[11380] D:\JenkinsWorkspace\workspace\client_build_installer\client\shared\libs\io\mg\io\WSConnection.cpp(483) : Received Http status code 0 for url wss://public-ws-ubiservices.ubi.com/v2/websocket?SpaceIds=e17be87d-2996-4f3b-97c4-19bb2dae2933&NotificationTypes=upc_free_games_updated.
+00000010	6.80544138	[11380] D:\JenkinsWorkspace\workspace\client_build_installer\client\shared\libs\biz\core\mg\biz\core\JobHttp.cpp(66) : Http status code is none for url https://public-ubiservices.ubi.com/v3/profiles/me/events.
+00000011	6.80573130	[11380] D:\JenkinsWorkspace\workspace\client_build_installer\client\shared\libs\biz\core\mg\biz\core\UbiServicesSendEvents.cpp(69) : Failed to send events, status code: 0.
